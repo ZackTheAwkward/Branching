@@ -1,6 +1,11 @@
 ## Git Cheat Sheet
 
 Overview of git commands
+Hey this is the newBranch stuff
+
+
+Git Rocks!!
+more text here.
 
 ### Basic Commands
 
