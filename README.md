@@ -1,6 +1,8 @@
 ## Git Cheat Sheet
 
 Overview of git commands
+Text added on main branch
+to create merge conflict
 
 ### Basic Commands
 
@@ -11,4 +13,4 @@ Overview of git commands
 ### Information Commands
 * `git status` - status of local workspace
 * `git log` - show log of commits
-* `git log --oneline` - shows log of commits down to one oneline
+* `git log --oneline` - shows log of commits down to one one line
